@@ -69,10 +69,13 @@ MSGCRYPT uses a Fernet key stored locally in key.key.
 ## 📁 Project Structure
 
 msgcrypt/
-│
+
 ├── main.py        # Main application (GUI)
+
 ├── keyGen.py      # Key generator script
+
 ├── logo.txt       # Ascii Logo for Setup
+
 ├── setup.bat      # Setup script
 
 ---
